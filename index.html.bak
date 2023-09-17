@@ -44,6 +44,12 @@
         
     </style>
 	<style>
+	.helpme {
+		color: blue;
+		border: 2px;
+		width: 100px;
+	</style>
+	<style>
 		.zoom {
 		  padding: 50px;
 		  background-color: green;
